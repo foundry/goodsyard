@@ -50,9 +50,6 @@
       padding: 0;
     }
 
-   h3.black{
-      color: black;
-    }
   
    
     #main_wrapper{
@@ -85,7 +82,7 @@
       text-align: left;
       opacity: 1;
       background: none;
-      width: calc(66% - 20px);
+      width: calc(66% - 30px);
       height: 100vh;
     }
     
@@ -103,7 +100,7 @@
       text-align: left;
       opacity: 1;
       background: none;
-      width: calc(66% + 20px);
+      width: calc(66% + 30px);
       height: 100vh;
     }
 
@@ -176,8 +173,7 @@
     
      .planning{
        font-size: 40px;
-       line-height: 85%;
-      font-weight: normal;
+      font-weight: bold;
       color: rgb(34,31,32);
     }
     
@@ -190,7 +186,7 @@
 		 .stop_small{
 			font-size: 40px;
 			line-height: 85%;
-			font-weight: normal;
+			font-weight: bold;
 			color: rgb(34,31,32);
 		}
    
@@ -202,13 +198,26 @@
 			font-size: 120px;
 			line-height: 85%;
 
-			font-weight: normal;
+			font-weight: bold;
 			color: rgb(255,40,0);
 		   }
 	
 		.what_small {
 		   display:none
 		}
+		
+		h1 {
+			font-size: 72px !important;
+
+		}
+		
+		h3, .planning {
+			font-size: 30px !important;
+
+		}
+		
+	
+
     
     }
     @media screen and (min-width: 720px) {
