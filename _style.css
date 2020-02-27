@@ -18,13 +18,13 @@
 
     body{
       font-family: Franklin Gothic Extra-Condensed,  Arial Narrow;
-      font-size: 35px;
+      font-size:40px;
     }
     
     
 
     h1{
-      font-size: 120px;
+      font-size: 120%;
       line-height: 85%;
       color: rgb(255,40,0);
       margin: 0;
@@ -34,7 +34,7 @@
 
 
      h2{
-      font-size: 120px;
+      font-size: 120%;
       color: rgb(34,31,32);
       margin: 0;
       padding: 0;
@@ -42,7 +42,7 @@
     }
 
     h3{
-      font-size: 40px;
+      font-size: 40%;
       line-height: 85%;
 
       color: rgb(255,40,0);
@@ -61,7 +61,7 @@
       clear: both;
       width: 100%;
       min-height: 100vh;
-      font-size: 30px;
+      font-size: 100px;
     }
 
     #left_overlap{
@@ -157,6 +157,15 @@
       margin-left: 2px;
       display: block;
     }
+    
+    .body_text {
+      font-family: Arial Narrow;
+      font-size: 18px;
+      color: rgb(34,31,32);
+      margin-top: -20px;
+      margin-left: 2px;
+      display: block;
+    }
 
 
     .smaller{
@@ -175,7 +184,7 @@
     }
     
      .planning{
-       font-size: 40px;
+       font-size: 40%;
        line-height: 85%;
       font-weight: normal;
       color: rgb(34,31,32);
@@ -187,8 +196,13 @@
 		}
     
     @media screen and (max-width: 719px) {
+    
+    #main_wrapper {
+          font-size: 80px;
+
+    }
 		 .stop_small{
-			font-size: 40px;
+			font-size: 40%;
 			line-height: 85%;
 			font-weight: normal;
 			color: rgb(34,31,32);
@@ -199,7 +213,7 @@
 		}
 	
 		 .what_big{
-			font-size: 120px;
+			font-size: 120%;
 			line-height: 85%;
 
 			font-weight: normal;
@@ -216,7 +230,7 @@
 			display:none !important;
 		}
 		.stop_big{
-			font-size: 120px;
+			font-size: 120%;
 			line-height: 85%;
 			font-weight: bold;
 			color: rgb(34,31,32);
@@ -227,7 +241,7 @@
 		}
 
 		.what_small{
-			font-size: 40px;
+			font-size: 40%;
 			line-height: 85%;
 
 			font-weight: bold;
