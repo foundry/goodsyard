@@ -73,7 +73,7 @@
       width: calc(50% + 30px);
       height: 100vh;
     }
-     #right_overlap_noinset{
+     .right_overlap_noinset{
       position: absolute;
       right: 0;
       top: 0;
@@ -91,7 +91,7 @@
           margin-left:10px; 
     }
 
-    #right_overlap{
+    .right_overlap{
       position: absolute;
       right: 0;
       top: 0;
