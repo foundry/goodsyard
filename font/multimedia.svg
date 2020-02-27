@@ -1,0 +1,70 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100.0" height="100.0">
+
+	<metadata>
+		<rdf:RDF xmlns:rdf = "http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs = "http://www.w3.org/2000/01/rdf-schema#" xmlns:dc = "http://purl.org/dc/elements/1.1/">
+			<rdf:Description rdf:about="http://likethought.com/opacity/">
+				<dc:title>multimedia</dc:title>
+				<dc:creator></dc:creator>
+				<dc:rights></dc:rights>
+				<dc:description></dc:description>
+				<dc:format>image/svg+xml</dc:format>
+				<dc:language>en</dc:language>
+			</rdf:Description>
+		</rdf:RDF>
+	</metadata>
+	<g>
+		<title>Layer 1</title>
+		<g transform="translate(34.0, -36.0) scale(0.66, 1.31)">
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 41.999 41.999" style="enable-background:new 0 0 41.999 41.999;" xml:space="preserve">
+<path d="M36.068,20.176l-29-20C6.761-0.035,6.363-0.057,6.035,0.114C5.706,0.287,5.5,0.627,5.5,0.999v40
+	c0,0.372,0.206,0.713,0.535,0.886c0.146,0.076,0.306,0.114,0.465,0.114c0.199,0,0.397-0.06,0.568-0.177l29-20
+	c0.271-0.187,0.432-0.494,0.432-0.823S36.338,20.363,36.068,20.176z"/>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>
+		</g>
+	</g>
+
+	<g transform="scale(1.0, 1.0)">
+		<text x="5" y="16.667" fill="rgb(100%, 0%, 0%)" fill-opacity="0.5" font-family="Futura" font-size="16">
+			Unregistered
+		</text>
+		<text x="20" y="50.0" fill="rgb(100%, 0%, 0%)" fill-opacity="0.5" font-family="Futura" font-size="16">
+			Copy of
+		</text>
+		<text x="20" y="83.333" fill="rgb(100%, 0%, 0%)" fill-opacity="0.5" font-family="Futura" font-size="16">
+			Opacity
+		</text>
+	</g>
+</svg>

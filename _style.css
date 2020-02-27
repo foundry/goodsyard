@@ -50,6 +50,7 @@
       padding: 0;
     }
 
+  
    
     #main_wrapper{
       position: relative;
@@ -85,7 +86,7 @@
       height: 100vh;
     }
     
-    .text_indented {
+    .right_indented {
           margin-right:40px;   
           margin-left:10px; 
     }
@@ -149,7 +150,7 @@
       font-family: Arial Narrow;
       font-size: 18px;
       color: rgb(34,31,32);
-      margin-top: -4px;
+      margin-top: -20px;
       margin-left: 2px;
       display: block;
     }
@@ -164,10 +165,7 @@
       display: block;
     }
 
-    a{
-      color: rgb(34,31,32);
-    }
-    
+ 
     .underlay {
      position: relative;
       z-index:-1;
@@ -254,6 +252,8 @@
    			letter-spacing: -2px  !important;
 
       }
+      
+   
 }
    
   </style>
