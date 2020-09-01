@@ -17,14 +17,14 @@
     }
 
     body{
-      font-family: Franklin Gothic Extra-Condensed,  Arial Narrow;
+      font-family: Franklin Gothic Extra-Condensed,  Arial Narrow, sans-serif;
       font-size:40px;
     }
     
     
 
     h1{
-      font-size: 120%;
+      font-size: 100%;
       line-height: 85%;
       color: rgb(255,40,0);
       margin: 0;
@@ -34,11 +34,11 @@
 
 
      h2{
-      font-size: 120%;
+      font-size: 100%;
       color: rgb(34,31,32);
       margin: 0;
       padding: 0;
-      margin-bottom:-20px;
+      margin-bottom:-14px;
     }
 
     h3{
@@ -150,7 +150,7 @@
     }
 
     .tiny{
-      font-family: Arial Narrow;
+      font-family: Arial Narrow, sans-serif;
       font-size: 18px;
       color: rgb(34,31,32);
       margin-top: -20px;
@@ -159,7 +159,7 @@
     }
     
     .body_text {
-      font-family: Arial Narrow;
+      font-family: Arial Narrow, sans-serif;
       font-size: 18px;
       color: rgb(34,31,32);
       margin-top: -20px;
@@ -169,12 +169,13 @@
 
 
     .smaller{
-      font-family: Arial Narrow;
+      font-family: Arial Narrow, sans-serif;
       font-size: 23px;
       color: rgb(34,31,32);
-      margin-top: -4px;
+      margin-top: 0px;
       margin-left: 2px;
       display: block;
+      line-height: 95%;
     }
 
  
@@ -213,7 +214,7 @@
 		}
 	
 		 .what_big{
-			font-size: 120%;
+			font-size: 100%;
 			line-height: 85%;
 
 			font-weight: normal;
@@ -230,7 +231,7 @@
 			display:none !important;
 		}
 		.stop_big{
-			font-size: 120%;
+			font-size: 100%;
 			line-height: 85%;
 			font-weight: bold;
 			color: rgb(34,31,32);
