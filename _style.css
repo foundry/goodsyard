@@ -106,11 +106,17 @@
       width: calc(66% + 20px);
       height: 100vh;
     }
+    
+     #small_spacer{
+      display: block;
+      clear: both;
+      height: 25px;
+    }
 
     #monster_spacer{
       display: block;
       clear: both;
-      height: 250px;
+      height: 225px;
     }
     #monster_spacer2{
       display: block;
