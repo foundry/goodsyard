@@ -49,6 +49,19 @@
       margin: 0;
       padding: 0;
     }
+    
+     h4{
+      font-size: 20%;
+      line-height: 85%;
+
+      color: rgb(255,40,0);
+      margin: 0;
+      padding: 0;
+    }
+    
+    h4.black {
+      color: black;
+    }
 
    h3.black{
       color: black;
